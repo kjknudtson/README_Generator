@@ -4,7 +4,7 @@
   
   ## Description
 
-  This application is designed to allow the user to be able to generate a professional README for their own projects and applications.  This application was created with Javascript and Node.js, and collects the user's input through various questions about the project in order to accomplish this task.  While this was for a school project, this is a handy application to have, as coders tend to constantly create a multitude of programs and applications that will all need their own README.  This application will be able to make that quick and painless for the user.
+  This application is designed to allow the user to be able to generate a professional README for their own projects and applications.  This application was created with Javascript and powered by Node.js, and collects the user's input through various questions about the project in order to accomplish this task.  While this was for a school project, this is a handy application to have, as coders tend to constantly create a multitude of programs and applications that will all need their own README.  This application will be able to make that quick and painless for the user.
 
   Repository: https://github.com/kjknudtson/README_Generator
   
