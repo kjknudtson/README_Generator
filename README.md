@@ -8,7 +8,7 @@
 
   Repository: https://github.com/kjknudtson/README_Generator
 
-  
+  ![README_screenshot](https://user-images.githubusercontent.com/64320048/87212975-227be400-c2e7-11ea-9c84-dc1d9a3bdfc3.png)
 
   ## Table of Contents
 
