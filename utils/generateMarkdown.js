@@ -10,8 +10,6 @@ function generateMarkdown(data) {
 
   Repository: ${data.repository}
 
-  ${data.screenshot}
-
   ## Table of Contents
 
   * [Installation](#installation)
@@ -28,6 +26,8 @@ function generateMarkdown(data) {
   ## Usage
 
   ${data.usage}
+
+  ${data.screenshot}
 
   ## Contributors
 
